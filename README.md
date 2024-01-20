@@ -1,15 +1,15 @@
 # FLEX-PR
 Developed a dynamic sports-focused e-commerce platform utilizing React, Node.js, and MongoDB. Implemented robust filtering mechanisms allowing users to sort products by color, category and more. Integrated Stripe payment gateway for seamless and secure online transactions.
-Backend Technologies:
+# Backend Technologies:
 Node.js Express.js MongoDB
 
-Frontend Technologies:
+# Frontend Technologies:
 HTML CSS JavaScript React Redux
 
-Other Technologies:
+# Other Technologies:
 bcryptjs cloudinary JSON Web Tokens (JWT) Multer Stripe
 
-About project
+# About project
 Flex is a dynamic and user-friendly e-commerce website that offers a wide range of products to its customers. Powered by a robust backend, the platform utilizes various packages like "bcryptjs" for secure password encryption, "cloudinary" for efficient image management, and "stripe" for smooth and secure payment transactions.
 
 The frontend of Flex is built using cutting-edge technologies such as React for seamless user interactions, while "react-redux" ensures smooth state management. The website's attractive design is enriched by components from "@headlessui/react" and "@heroicons/react," providing an engaging and intuitive user experience.
